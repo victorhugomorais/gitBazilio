@@ -9,5 +9,4 @@ def fib(n):
 
 #print(fib(10))
 
-print(fib((int)(sys.argv[1])))
 
